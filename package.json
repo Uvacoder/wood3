@@ -23,7 +23,7 @@
     "cross-env": "^7.0.3",
     "make-dir-cli": "^3.0.0",
     "prettier": "^2.4.1",
-    "rollup": "^2.47.0",
+    "rollup": "^2.60.1",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-json": "^4.0.0",
     "rollup-plugin-node-resolve": "^5.2.0"
