@@ -1,7 +1,7 @@
 ---
 title: 'Mobile charging station in walnut'
 socialImage: https://www.fantomas-ls.com/images/Walnut-charging-station-5.png
-date: '2022-01-25'
+date: '2021-12-25'
 tags:
   - woodworking
 ---
