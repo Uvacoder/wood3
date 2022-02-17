@@ -95,7 +95,7 @@ I used the miter gage on my table saw and a quick and dirty tapering jig to cut 
 </div>
 </div>
 
-![Plywood Desk](/images/Plywood-desks-6.png "Trueing up the top of both legs.")
+![Plywood Desk](/images/Plywood-desks-6.png "Truing up the top of both legs.")
 
 ![Plywood Desk](/images/Plywood-desks-7.png "Marking the mortice for the back stretcher.")
 
@@ -113,7 +113,7 @@ For the undercut bevel, Neil uses his table saw but I was not very comfortable d
 
 <div>
 
-![Plywood Desk](/images/Plywood-desks-19.png "This handy little lip prevents the saw from falling of the track")
+![Plywood Desk](/images/Plywood-desks-19.png "This handy little lip prevents the saw from falling off the track")
 </div>
 <div>
 
