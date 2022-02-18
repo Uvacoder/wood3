@@ -8,7 +8,7 @@ tags:
 
 I still had plenty of plywood scraps laying around so decided to make desks for the kids. ​
 
-I bought plans from the [nicest woodworker in the southern hemisphere](https://paskmakes.com/) and went to work. I still had enough material for the base and drawer unit and only had to order the tops. I went with 37 mm birch plywood with a laminate top layer.
+I bought plans from the [nicest woodworker in the southern hemisphere](https://paskmakes.com/) and went to work. I still had enough material for the base and drawer unit and only had to order the tops. I went with 29 mm birch plywood with a laminate top layer.
 
 ---
 ## New tools
