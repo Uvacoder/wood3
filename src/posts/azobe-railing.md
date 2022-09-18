@@ -1,6 +1,6 @@
 ---
 title: 'Azobe railing'
-socialImage: https://www.fantomas-ls.com/images/azobe-railing/Azobe-railing-5.jpg
+socialImage: https://www.fantomas-ls.com/images/azobe-railing/Azobe-railing-5.jpeg
 date: '2022-09-17'
 tags:
   - woodworking
